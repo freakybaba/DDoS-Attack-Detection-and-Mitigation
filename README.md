@@ -21,9 +21,9 @@ DDoS attack mitigation for hping3 tool attack restriction/mitigation.
 ## <center>Step - 3</center>
 
 ### For attacker
-> Forattacker: This folder contains code for attacking to server `<server_IP>` to `your serverIP` like example: `192.168.1.106`.
+>http_flood.sh file contains code for attacking to server `<server_IP>` to `your serverIP` like example: `192.168.1.106`.
 >
-> Put this folders contents to other `linux machine` or `Virtual linux machine`.
+> Put this  to other `linux machine` or `Virtual linux machine`.
 
 ### For Server
 > make sure you run everything in `superuser` mode.
